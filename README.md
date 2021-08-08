@@ -3,3 +3,4 @@
 [four move.7z](https://github.com/firefqqueit/udate-quiley/raw/main/four%20move.7z)  
 [Qv2 install.7z](https://github.com/firefqqueit/udate-quiley/raw/main/Qv2%20install.7z)  
 [add passwd.7z](https://github.com/firefqqueit/udate-quiley/raw/main/add%20passwd.7z)  
+[FQfirefox+video](https://codeload.github.com/evermanu/FQfirefox/zip/refs/heads/main)
