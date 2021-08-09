@@ -1,6 +1,2 @@
-[winds seting.7z](https://github.com/firefqqueit/udate-quiley/raw/main/winds%20seting.7z)  
-[set tor fox.7z](https://github.com/firefqqueit/udate-quiley/raw/main/set%20tor%20fox.7z)  
-[four move.7z](https://github.com/firefqqueit/udate-quiley/raw/main/four%20move.7z)  
-[Qv2 install.7z](https://github.com/firefqqueit/udate-quiley/raw/main/Qv2%20install.7z)  
-[add passwd.7z](https://github.com/firefqqueit/udate-quiley/raw/main/add%20passwd.7z)  
-[FQfirefox+video](https://codeload.github.com/evermanu/FQfirefox/zip/refs/heads/main)
+[two and.7z](https://cdn.jsdelivr.net/gh/firefqqueit/udate-quiley/two%20and.7z)  
+FQfirefox+video [FQfirefox20210803.7z.001](https://cdn.jsdelivr.net/gh/evermanu/FQfirefox/FQfirefox20210803.7z.001)  [FQfirefox20210803.7z.002](https://cdn.jsdelivr.net/gh/evermanu/FQfirefox/FQfirefox20210803.7z.002) [video.7z](https://cdn.jsdelivr.net/gh/evermanu/FQfirefox/video.7z)
